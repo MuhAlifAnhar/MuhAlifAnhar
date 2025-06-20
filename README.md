@@ -1,6 +1,6 @@
 ## 👋 Hello World! I'm Muh. Alif Anhar
 
-![Zee JKT48](https://media.tenor.com/DYcCkHxqO9AAAAAC/zee-zee-jkt48.gif)
+![Zee JKT48](https://tenor.com/view/zee-zee-jkt48-jkt48zee-zeebelas-zeelasa-gif-27707206)
 
 > 🌍 Welcome to my cozy little world.  
 There are a few things here to check out — feel free to explore!  
