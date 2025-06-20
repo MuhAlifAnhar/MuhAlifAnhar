@@ -1,5 +1,7 @@
 ## 👋 Hello World! I'm Muh. Alif Anhar
 
+![Zee JKT48](https://media.tenor.com/DYcCkHxqO9AAAAAC/zee-zee-jkt48.gif)
+
 💻 I'm a **Web Developer** who specializes in building modern and responsive websites using **Laravel** and **Bootstrap**.  
 🚀 Passionate about turning ideas into clean, functional, and user-friendly web applications.  
 📍 Based in Makassar | ☕ Fueled by code and coffee  
