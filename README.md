@@ -1,9 +1,9 @@
-## 👋 Hello World! I'm Muh. Alif Anhar
+## 👋 Hi!
 
 ![Zee JKT48](https://media1.tenor.com/m/w-0_DFGUWrgAAAAd/zee-zee-jkt48.gif)
 
 > 🌍 Welcome to my cozy little world.  
-There are a few things here to check out — feel free to explore!  
+There are a few things here to check out feel free to explore!  
 But hey, make sure you’ve grabbed something to drink from the fridge first.  
 Coding’s always better with coffee, tea, or even an energy drink, right? 😄
 
