@@ -2,6 +2,13 @@
 
 ![Zee JKT48](https://media.tenor.com/DYcCkHxqO9AAAAAC/zee-zee-jkt48.gif)
 
+> 🌍 Welcome to my cozy little world.  
+There are a few things here to check out — feel free to explore!  
+But hey, make sure you’ve grabbed something to drink from the fridge first.  
+Coding’s always better with coffee, tea, or even an energy drink, right? 😄
+
+---
+
 💻 I'm a **Web Developer** who specializes in building modern and responsive websites using **Laravel** and **Bootstrap**.  
 🚀 Passionate about turning ideas into clean, functional, and user-friendly web applications.  
 📍 Based in Makassar | ☕ Fueled by code and coffee  
