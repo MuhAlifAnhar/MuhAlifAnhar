@@ -8,10 +8,10 @@
 ---
 
 ### 💼 Featured Projects
-- 🧾 [E-Office Infolahtadam TNI AD](https://github.com/fuureya/INFOLAHTADAM) – Digital office solution built with Livewire  
-- 📊 [Forecasting Bahan Baku - Kanal Social Space](https://github.com/MuhAlifAnhar/prediksi-app) – Web app using WMA method for inventory prediction  
-- 🎓 [Student Satisfaction Application of Makassar State University](https://github.com/fuureya/study-tracker-unm) – Student Satisfaction Application with Livewire and Bootstrap  
-- 👘 [Rental Kostum](https://github.com/MuhAlifAnhar/Rental-Kostum) – Costume rental web app with admin & user panel
+- 🧾 [E-Office Infolahtadam TNI AD](https://github.com/fuureya/INFOLAHTADAM) – A digital office solution built using **Laravel Livewire** for streamlined document and task management.  
+- 📊 [Forecasting Bahan Baku – Kanal Social Space](https://github.com/MuhAlifAnhar/prediksi-app) – A forecasting system using the **Weighted Moving Average (WMA)** method to predict raw material needs.  
+- 🎓 [Student Satisfaction Application – UNM](https://github.com/fuureya/study-tracker-unm) – A web application developed with **Livewire** and **Bootstrap** to assess student satisfaction at Universitas Negeri Makassar.  
+- 👘 [Rental Kostum Web App](https://github.com/MuhAlifAnhar/Rental-Kostum) – A Laravel-based costume rental application complete with user and admin management features.
 
 ---
 
