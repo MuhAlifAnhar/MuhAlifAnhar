@@ -1,34 +1,33 @@
 ## 👋 Hello World! I'm Muh. Alif Anhar
 
-🎮 I make **games** that blend fun, creativity, and code!  
-💻 Passionate about **game development**, **web apps**, and bringing ideas to life through **interactive experiences**.  
-📍 Based in Makassar | ☕ Code & coffee enthusiast  
-📚 Currently diving deeper into **Laravel**, **JavaScript**, and **game mechanics**  
-🌱 Always exploring new frameworks and tools in **web & game dev**
+💻 I'm a **Web Developer** who specializes in building modern and responsive websites using **Laravel** and **Bootstrap**.  
+🚀 Passionate about turning ideas into clean, functional, and user-friendly web applications.  
+📍 Based in Makassar | ☕ Fueled by code and coffee  
+🌱 Currently exploring more about **Livewire**, **AJAX**, and project architecture with **Laravel Filament**
 
 ---
 
-### 🕹️ Featured Projects
-- 🎲 [Mini RPG Adventure](https://github.com/MuhAlifAnhar/mini-rpg-game) — Turn-based game with random encounters & inventory system
-- 🧩 [Puzzle Platformer](https://github.com/MuhAlifAnhar/platformer-game) — A pixel-style platformer made with HTML5 Canvas
-- 🚀 [Space Invaders Clone](https://github.com/MuhAlifAnhar/space-shooter) — My remake of the classic arcade game in JavaScript
-
-> 💡 Most of my games are web-based so you can try them right from your browser!
-
----
-
-### 💼 Other Works
-- 📦 [Rental Kostum Web App](https://github.com/MuhAlifAnhar/rental-kostum)
-- 📈 [Forecasting System with WMA](https://github.com/MuhAlifAnhar/forecasting-app)
-- 🌐 [Online Course Platform](https://github.com/MuhAlifAnhar/cus-online-course)
+### 💼 Featured Projects
+- 🧾 [E-Office Infolahtadam TNI AD](https://github.com/fuureya/INFOLAHTADAM) – Digital office solution built with Livewire  
+- 📊 [Forecasting Bahan Baku - Kanal Social Space](https://github.com/MuhAlifAnhar/prediksi-app) – Web app using WMA method for inventory prediction  
+- 🎓 [Student Satisfaction Application of Makassar State University](https://github.com/fuureya/study-tracker-unm) – Student Satisfaction Application with Livewire and Bootstrap  
+- 👘 [Rental Kostum](https://github.com/MuhAlifAnhar/Rental-Kostum) – Costume rental web app with admin & user panel
 
 ---
 
-### 📫 Let's connect!
-- 📧 Email: alifanhar.dev@gmail.com
-- 💬 Discord: @alifanhar
-- 🌍 Portfolio: [alifanhar.web.app](https://alifanhar.web.app) *(coming soon)*
+### ⚙️ Tech Stack
+- **Framework:** Laravel, Livewire, Bootstrap  
+- **Database:** MySQL  
+- **Tools:** Git, VS Code, XAMPP, Figma  
+- **Other Skills:** REST API, UI/UX Design, Project Management
 
 ---
 
-> _"Code is the tool. Imagination is the real power."_ 🚀  
+### 📫 Let's Connect
+- ✉️ Email: sultankautsar19@gmail.com  
+- 💬 Discord: **@crwnleaf**  
+- 🌐 LinkedIn: [Muh. Alif Anhar](https://www.linkedin.com/in/muh-alif-anhar-634bb1270/) *(portfolio in development)*
+
+---
+
+> _"Write clean code, build meaningful solutions."_ 🚀
