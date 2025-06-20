@@ -1,8 +1,6 @@
 ## 👋 Hi!
 
-<div align="center">
-  <img src="https://camo.githubusercontent.com/620547ef8229dc43788e44b126d2acdeb3c11ca4cd912ecb861586ae2cbe2db6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7363744877554d3559724d41414141642f626f636368692d7468652d726f636b2d696b75796f2d6b6974612e676966" alt="Bochi The Rock" style="max-width: 100%; height: auto;" />
-</div>
+<img src="https://camo.githubusercontent.com/620547ef8229dc43788e44b126d2acdeb3c11ca4cd912ecb861586ae2cbe2db6/68747470733a2f2f6d656469612e74656e6f722e636f6d2f7363744877554d3559724d41414141642f626f636368692d7468652d726f636b2d696b75796f2d6b6974612e676966" alt="BTR Ikuyo Kita" data-canonical-src="https://media.tenor.com/sctHwUM5YrMAAAAd/bocchi-the-rock-ikuyo-kita.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
 > 🌍 Welcome to my cozy little world.  
 There are a few things here to check out feel free to explore!  
